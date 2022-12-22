@@ -24,7 +24,7 @@
 ||wilddream.net^$important
 ||bigfurs.com^$important
 ||foxbox.cc^$important
-||fursuit.me^$important 
+||fursuit.me^$important
 ||lionking.org^$important
 ||lilymud.net^$important
 ||nurserytails.ca^$important
