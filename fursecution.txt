@@ -30,10 +30,40 @@
 ||nurserytails.ca^$important
 ||polfurs.org^$important
 ||side7.com^$important
-||scratch.mit.edu^$important
 ||agn.ph^$important
 ||anthroarts.org^$important
+||cyoc.net^$important
+||chooseyourchange.com^$important
+||aryion.com^$important
+||e926.net^$important
+||e621.net^$important
+||furry.ink^$important
+||furrynetwork.com^$important
+||furryplay.com^$important
+||herpy.nu^$important
+||hotfurs.com^$important
+||inkedfur.com^$important
+||jabarchives.com^$important
+||kemoner.com^$important
+||kemonoart.org^$important
+||mamabliss.com^$important
+||msgotu.com^$important
+||palcomix.com^$important
+||yiff.ru^$important
+||yiff.gg^$important
+||yiff.net^$important
+||yiff.com^$important
+||yiff.org^$important
+||yiff.tube^$important
+||yiff^$important
+||furnation.com^$important
+||thehotlion.sex^$important
+||theyiffgallery.com^$important
+||yiffer.xyz^$important
+||yiffer^$important
+||yiffyfur.tube^$important
 
+# Furry Domain Ending Blocker
 # Fuck you for adding this domain ending, OpenNIC!
 ||fur^$important
 ||.fur^$important
