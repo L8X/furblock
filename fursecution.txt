@@ -1,0 +1,39 @@
+# Fursecution blocks degenerate furry content from invading your network.
+# Use this to shield your friends and family from being brainwashed by the cancer that is furryism.
+# Let's start #Fursecution NOW!
+
+||furaffinity.net^$important
+||weasyl.com^$important
+||sofurry.com^$important
+||f-list.net^$important
+||furvilla.com^$important
+||inkbunny.net^$important
+||wikifur.com^$important
+||furscience.com^$important
+||furrycons.com^$important
+||furry-explained.com^$important
+||furfling.com^$important
+||ferzu.com^$important
+||furrtrax.com^$important
+||barq.social^$important
+||furiffic.com^$important
+||transfur.com^$important
+||vclart.net^$important
+||anthrofiction.net^$important
+||wilddream.com^$important
+||wilddream.net^$important
+||bigfurs.com^$important
+||foxbox.cc^$important
+||fursuit.me^$important 
+||lionking.org^$important
+||lilymud.net^$important
+||nurserytails.ca^$important
+||polfurs.org^$important
+||side7.com^$important
+||scratch.mit.edu^$important
+||agn.ph^$important
+||anthroarts.org^$important
+
+# Fuck you for adding this domain ending, OpenNIC!
+||fur^$important
+||.fur^$important
